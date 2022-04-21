@@ -1,0 +1,155 @@
+<mxfile host="app.diagrams.net" modified="2022-04-21T23:15:06.642Z" agent="5.0 (Macintosh)" etag="zL8N-iPNYGBYxCn3l1tg" version="17.4.5" type="github">
+  <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
+    <mxGraphModel dx="1918" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-17" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="810" height="960" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-18" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CeD0Tbo2oTvyMGyi_BMP-17" vertex="1">
+          <mxGeometry width="810" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-19" value="Clients Citrix API" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CeD0Tbo2oTvyMGyi_BMP-18" vertex="1">
+          <mxGeometry width="190" height="47" as="geometry">
+            <mxRectangle width="190" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-20" value="Remote Desktop API" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CeD0Tbo2oTvyMGyi_BMP-18" vertex="1">
+          <mxGeometry x="190" width="220" height="47" as="geometry">
+            <mxRectangle width="220" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-21" value="Service Directory" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CeD0Tbo2oTvyMGyi_BMP-18" vertex="1">
+          <mxGeometry x="410" width="170" height="47" as="geometry">
+            <mxRectangle width="170" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-22" value="Application Launch" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CeD0Tbo2oTvyMGyi_BMP-18" vertex="1">
+          <mxGeometry x="580" width="230" height="47" as="geometry">
+            <mxRectangle width="230" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CeD0Tbo2oTvyMGyi_BMP-17" vertex="1">
+          <mxGeometry y="47" width="810" height="913" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CeD0Tbo2oTvyMGyi_BMP-23" vertex="1">
+          <mxGeometry width="190" height="913" as="geometry">
+            <mxRectangle width="190" height="913" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CeD0Tbo2oTvyMGyi_BMP-23" vertex="1">
+          <mxGeometry x="190" width="220" height="913" as="geometry">
+            <mxRectangle width="220" height="913" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CeD0Tbo2oTvyMGyi_BMP-23" vertex="1">
+          <mxGeometry x="410" width="170" height="913" as="geometry">
+            <mxRectangle width="170" height="913" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-27" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="CeD0Tbo2oTvyMGyi_BMP-23" vertex="1">
+          <mxGeometry x="580" width="230" height="913" as="geometry">
+            <mxRectangle width="230" height="913" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="710" y="100" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CeD0Tbo2oTvyMGyi_BMP-29" target="CeD0Tbo2oTvyMGyi_BMP-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-29" value="For given Tenant Discover Location of the service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="165" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="CeD0Tbo2oTvyMGyi_BMP-30" target="CeD0Tbo2oTvyMGyi_BMP-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-30" value="Find millenia for tenant and Service configuration of the mill Domain, Return URL&amp;nbsp; remote desktop API" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="140" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CeD0Tbo2oTvyMGyi_BMP-32" target="CeD0Tbo2oTvyMGyi_BMP-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-32" value="With Cerner Authorization Token call the API to get Application Information/" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="260" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-33" value="Get List of Application for the user" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CeD0Tbo2oTvyMGyi_BMP-34" target="CeD0Tbo2oTvyMGyi_BMP-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-34" value="Gets list of Application available in citris" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CeD0Tbo2oTvyMGyi_BMP-35" target="CeD0Tbo2oTvyMGyi_BMP-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-35" value="Loads the icons for the applications" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="450" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="CeD0Tbo2oTvyMGyi_BMP-36" target="CeD0Tbo2oTvyMGyi_BMP-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-36" value="Icons for the applications" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="CeD0Tbo2oTvyMGyi_BMP-37" target="CeD0Tbo2oTvyMGyi_BMP-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-37" value="Show Application to End user" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-38" value="User Lauches App" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CeD0Tbo2oTvyMGyi_BMP-39" target="CeD0Tbo2oTvyMGyi_BMP-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_NtTzdUc23iZ93M_49-v-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CeD0Tbo2oTvyMGyi_BMP-39" target="CeD0Tbo2oTvyMGyi_BMP-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-39" value="Get Launch Application Link to download" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="650" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_NtTzdUc23iZ93M_49-v-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CeD0Tbo2oTvyMGyi_BMP-40" target="CeD0Tbo2oTvyMGyi_BMP-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-40" value="Let user download the Application and Launch." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="655" y="760" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-41" value="Get Launch application for the downloads" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="697.5" y="890" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CeD0Tbo2oTvyMGyi_BMP-28" target="CeD0Tbo2oTvyMGyi_BMP-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.583;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="CeD0Tbo2oTvyMGyi_BMP-34" target="CeD0Tbo2oTvyMGyi_BMP-62" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CeD0Tbo2oTvyMGyi_BMP-62" target="CeD0Tbo2oTvyMGyi_BMP-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-62" value="Get list application, collects list images to load" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CeD0Tbo2oTvyMGyi_BMP-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="CeD0Tbo2oTvyMGyi_BMP-38" target="CeD0Tbo2oTvyMGyi_BMP-39" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
