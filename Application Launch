@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T15:41:48.069Z" agent="5.0 (Macintosh)" etag="oJmU_PbhF-DeA0CQzbEJ" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T15:47:52.249Z" agent="5.0 (Macintosh)" etag="fzuutDZJsGD5lfmlxqI4" version="17.4.5" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1918" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -119,6 +119,9 @@
         <mxCell id="CeD0Tbo2oTvyMGyi_BMP-40" value="Let user download the Application and Launch." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="655" y="760" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="_NtTzdUc23iZ93M_49-v-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CeD0Tbo2oTvyMGyi_BMP-41" target="_NtTzdUc23iZ93M_49-v-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CeD0Tbo2oTvyMGyi_BMP-41" value="Get Launch application for the downloads" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="645" width="120" height="60" as="geometry" />
         </mxCell>
@@ -149,8 +152,17 @@
         <mxCell id="_NtTzdUc23iZ93M_49-v-11" value="List of applications" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_NtTzdUc23iZ93M_49-v-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_NtTzdUc23iZ93M_49-v-14" target="CeD0Tbo2oTvyMGyi_BMP-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_NtTzdUc23iZ93M_49-v-14" value="Launch Icon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="755" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_NtTzdUc23iZ93M_49-v-17" value="End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="885" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_NtTzdUc23iZ93M_49-v-18" value="Start" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
